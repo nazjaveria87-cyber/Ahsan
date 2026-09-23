@@ -477,7 +477,7 @@ export const PROJECTS = [
     },
     {
       label: "Frontend Stack",
-      value: "HTML/CSS/JS"
+      value: "HTML"
     },
   ],
 
@@ -563,7 +563,7 @@ export const PROJECTS = [
     },
     {
       label: "Technology Stack",
-      value: "Modern Frontend"
+      value: "Modern"
     },
   ],
 
